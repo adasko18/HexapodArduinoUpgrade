@@ -7,21 +7,21 @@
  
 **Project overview**
 
-[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/5ef540cbcaf3b.jpg.html)]()
+[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/images/5ef540cbcaf3b.jpg)]()
 
 Scheme 1. Old control system based on LynxMotion Mini-ABB.
 
-[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/2424a1766f610.jpg.html)]()
+[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/images/2424a1766f610.jpg)]()
 
 Scheme 2. New control system based on Arduino Leonardo.
 
-[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/ed166b3ae763e.jpg.html)]()
+[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/images/ed166b3ae763e.jpg)]()
 
 Photo 1. Hexapod.
 
-[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/1e25ceb3ac588.jpg.html)]()
+[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/images/1e25ceb3ac588.jpg)]()
 
-Scheme 3. General scheme of hexapod.
+Scheme 3. General scheme of hexapod (numbers from 0 to 11 are modeling servos)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ Scheme 3. General scheme of hexapod.
 
 ## Installation
 
-1. [![Download Arduino IDE]https://www.arduino.cc/en/main/software]()
+1. [Download Arduino IDE](https://www.arduino.cc/en/main/software)
 2. Download files from HexapodArduinoUpgrade repository
 3. Connect your Arduino (default hardware version is Leonardo)
 4. Compile and Run
@@ -53,7 +53,7 @@ Scheme 3. General scheme of hexapod.
 For any problems, comments, or feedback please create an issue here on GitHub.
 
 ## Support
-Contact with me on [![my webside]https://adasko18.github.io/]()
+Contact with me on [my webside](https://adasko18.github.io/)
 
 ## License
 
